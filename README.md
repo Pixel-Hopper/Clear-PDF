@@ -11,7 +11,7 @@
 1. **Python** - Make sure Python is installed on your system.
 2. **Dependencies** - Install the required Python packages by running:
 
-## ```bash 
+   ```bash 
    pip install PyMuPDF tkinterdnd2
    
 ## 🌟 Features
