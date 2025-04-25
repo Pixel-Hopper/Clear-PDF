@@ -19,11 +19,11 @@
 3. Rasterizes and flattens each page  
 
 ## 🌟 Attribution
-Tkinter: A GUI library for Python, essential for building the app's user interface. [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+Tkinter: A GUI library for Python, essential for building the app's user interface. [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-PyMuPDF: A Python library for working with PDF documents. [PyMuPDF Documentation](https://pymupdf.readthedocs.io/en/latest/document.html)
+PyMuPDF: A Python library for working with PDF documents. [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/document.html)
 
-TkinterDnD2: Provides drag-and-drop functionality to Tkinter. [TkinterDnD2 Documentation](https://pypi.org/project/tkinterdnd2/)
+TkinterDnD2: Provides drag-and-drop functionality to Tkinter. [TkinterDnD2](https://pypi.org/project/tkinterdnd2/)
 
 ## 🌟 About Me
 
