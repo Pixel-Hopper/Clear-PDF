@@ -9,7 +9,7 @@
 ## 🌟 Requirements
 
 1. **Python** - Make sure Python is installed on your system.
-2. **Dependencies** - Install the required Python packages by running: pip install PyMuPDF tkinterdnd2
+2. **Dependencies** - Install the required Python packages by running: **pip install PyMuPDF tkinterdnd2**
    
 ## 🌟 Features
 
