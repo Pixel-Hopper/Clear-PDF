@@ -1,10 +1,11 @@
 ## 🚀 Instructions 
 
-1. Put the Python script in any folder.
-2. Run the script by double-clicking on the Python file.
+1. Keep both Python script and bat file in any folder.
+2. Run the script by double-clicking on the bat file.
 3. Drag and drop or browse to select the PDF files you want to clean.
 4. Choose the output folder where cleaned PDFs will be saved.
-5. Click "Export" to process all the PDFs. The clean PDFs will be saved with the suffix "_CLEAN" in the selected output folder.
+5. Click "Export" to process all the PDFs. 
+6. The clean PDFs will be saved with the suffix "_CLEAN" in the selected output folder.
 
 ## 🌟 Requirements
 
