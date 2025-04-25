@@ -18,7 +18,7 @@
 3. Rasterizes and flattens each page  
 
 ## 🌟 Attribution
-Tkinter: A GUI library for Python, essential for building the app's user interface. Tkinter Documentation
+Tkinter: A GUI library for Python, essential for building the app's user interface. [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 
 PyMuPDF: A Python library for working with PDF documents. PyMuPDF Documentation
 
