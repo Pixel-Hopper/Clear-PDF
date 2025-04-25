@@ -45,6 +45,7 @@ def add_file(file):
         file_listbox.insert(tk.END, file)
 
 def on_drop(event):
+    print(f"Dropped: {event.data}")  # Debug line
     files = root.tk.splitlist(event.data)
     for file in files:
         add_file(file)
@@ -92,8 +93,9 @@ file_listbox = Listbox(file_frame, selectmode="multiple", yscrollcommand=scrollb
 file_listbox.pack(fill="both", expand=True)
 scrollbar.config(command=file_listbox.yview)
 
-file_listbox.drop_target_register(DND_FILES)
-file_listbox.dnd_bind("<<Drop>>", on_drop)
+# Register drag-and-drop on the root instead of file_listbox
+root.drop_target_register(DND_FILES)
+root.dnd_bind("<<Drop:DND_Files>>", on_drop)
 
 btn_frame = tk.Frame(root)
 btn_frame.pack(pady=10)
@@ -101,6 +103,6 @@ btn_frame.pack(pady=10)
 tk.Button(btn_frame, text="Browse", command=browse_files).pack(side="left", padx=5)
 tk.Button(btn_frame, text="Output", command=choose_output_folder).pack(side="left", padx=5)
 tk.Button(btn_frame, text="Clear", command=clear_file_list).pack(side="left", padx=5)
-tk.Button(btn_frame, text="Export", command=process_all_pdfs).pack(pady=15)
+tk.Button(btn_frame, text="Export", command=process_all_pdfs).pack(side="left", padx=5)
 
 root.mainloop()
