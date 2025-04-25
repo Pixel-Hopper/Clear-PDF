@@ -1,4 +1,4 @@
-## Instructions 🚀
+## 🚀 Instructions 
 
 1. Put the Python script in any folder.
 2. Run the script by double-clicking on the Python file.
@@ -6,7 +6,7 @@
 4. Choose the output folder where cleaned PDFs will be saved.
 5. Click "Export" to process all the PDFs. The clean PDFs will be saved with the suffix "_CLEAN" in the selected output folder.
 
-## Requirements
+## 🌟 Requirements
 
 1. **Python** - Make sure Python is installed on your system.
 2. **Dependencies** - Install the required Python packages by running:
@@ -14,19 +14,19 @@
    ```bash
    pip install PyMuPDF tkinterdnd2
 
-## ✨ Features
+## 🌟 Features
 
 - 📄 Drag-and-drop or browse multiple PDF files  
 - 📁 Choose a custom output folder  
 - 🧽 Rasterizes and flattens each page  
 
-## Attribution
+## 🌟 Attribution
 Tkinter: A GUI library for Python, essential for building the app's user interface. Tkinter Documentation
 
 PyMuPDF: A Python library for working with PDF documents. PyMuPDF Documentation
 
 TkinterDnD2: Provides drag-and-drop functionality to Tkinter. TkinterDnD2 GitHub
 
-## About Me
+## 🌟 About Me
 
 Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez 
