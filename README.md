@@ -4,9 +4,11 @@ A simple drag-and-drop desktop app built with `tkinter` and `PyMuPDF` to clean u
 
 ## ✨ Features
 
-- 📄 Drag-and-drop or browse multiple PDF files  
+- 📄 Drag-and-drop or browse multiple PDF files 
+ 
 - 📁 Choose custom output folder  
-- 🧽 Rasterizes and flattens each page (default 150 DPI)  
+
+- 🧽 Rasterizes and flattens each page
 
 ## 🚀 Getting Started
 
