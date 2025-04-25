@@ -10,6 +10,7 @@ A simple drag-and-drop desktop app built with `tkinter` and `PyMuPDF` to clean u
 
 - 🧽 Rasterizes and flattens each page
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
