@@ -16,9 +16,9 @@
 
 ## 🌟 Features
 
-- 📄 Drag-and-drop or browse multiple PDF files  
-- 📁 Choose a custom output folder  
-- 🧽 Rasterizes and flattens each page  
+1. Drag-and-drop or browse multiple PDF files  
+2. Choose a custom output folder  
+3. Rasterizes and flattens each page  
 
 ## 🌟 Attribution
 Tkinter: A GUI library for Python, essential for building the app's user interface. Tkinter Documentation
