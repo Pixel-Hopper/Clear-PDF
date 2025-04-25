@@ -20,9 +20,9 @@
 ## 🌟 Attribution
 Tkinter: A GUI library for Python, essential for building the app's user interface. [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 
-PyMuPDF: A Python library for working with PDF documents. PyMuPDF Documentation
+PyMuPDF: A Python library for working with PDF documents. [PyMuPDF Documentation](https://pymupdf.readthedocs.io/en/latest/document.html)
 
-TkinterDnD2: Provides drag-and-drop functionality to Tkinter. TkinterDnD2 GitHub
+TkinterDnD2: Provides drag-and-drop functionality to Tkinter. [TkinterDnD2 GitHub](https://pypi.org/project/tkinterdnd2/)
 
 ## 🌟 About Me
 
