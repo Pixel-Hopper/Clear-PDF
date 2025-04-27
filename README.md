@@ -11,8 +11,11 @@
 
 1. **Python** - Make sure Python is installed on your system.
 2. **Dependencies** - Install the required Python packages by running: **pip install PyMuPDF tkinterdnd2**
-   ```bash
-   pip install PyMuPDF tkinterdnd2
+<p align="center">
+  
+  <code>pip install PyMuPDF tkinterdnd2</code>
+
+</p>
 ## 🌟 Features
 
 1. Drag-and-drop or browse multiple PDF files  
